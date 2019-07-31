@@ -38,3 +38,7 @@ cleanup:
 	rm godog_dependency_file_test.go || true
 	rm coverage.out || true
 	rm -r vendor || true
+
+.PHONY: build
+build: 
+	go build -o .bin/handler cmd/handler.go

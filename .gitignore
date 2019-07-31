@@ -14,4 +14,4 @@
 # misc.
 godog_dependency_file_test.go
 cucumber.json
-./handler
+.bin
