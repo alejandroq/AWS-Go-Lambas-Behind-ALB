@@ -3,13 +3,13 @@
 
 ## Goal
 
-Simplify the implementation of an AWS ALB with a Lambda target for reducing operational costs when niche API Gateway features are not being used yet the API found in the Lambda still need be client accessible.
+Simplify the implementation of an AWS ALB with a Lambda target for reducing operational costs when niche API Gateway features are not being used yet the API(s) within the Lambda still need to be client accessible (likely via the internet).
 
 Cloud operation costs and possible savings may not be worth the effort for mid-to-large sized companies, however for hobbyists and small business' such savings can be highly valuable.
 
 An article to read: [https://serverless-training.com/articles/save-money-by-replacing-api-gateway-with-application-load-balancer/](https://serverless-training.com/articles/save-money-by-replacing-api-gateway-with-application-load-balancer/).
 
-A secondary goal is to establish a quick baseline to get started with ATDD via `godog`. See below.
+A secondary goal is to establish a quick baseline to get started with ATDD via `godog`. See integration testing below.
 
 ## Setup
 
