@@ -7,7 +7,7 @@ Simplify the implementation of an AWS ALB with a Lambda target for reducing oper
 
 Cloud operation costs and possible savings may not be worth the effort for mid-to-large sized companies, however for hobbyists and small business' such savings can be highly valuable.
 
-An article to read: [https://serverless-training.com/articles/save-money-by-replacing-api-gateway-with-application-load-balancer/](https://serverless-training.com/articles/save-money-by-replacing-api-gateway-with-application-load-balancer/).
+An article to read on a comparison of costs: [https://serverless-training.com/articles/save-money-by-replacing-api-gateway-with-application-load-balancer/](https://serverless-training.com/articles/save-money-by-replacing-api-gateway-with-application-load-balancer/).
 
 A secondary goal is to establish a quick baseline to get started with ATDD via `godog`. See integration testing below.
 
