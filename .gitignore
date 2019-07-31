@@ -10,3 +10,8 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+# misc.
+godog_dependency_file_test.go
+cucumber.json
+handler
